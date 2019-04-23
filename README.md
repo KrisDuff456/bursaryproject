@@ -1,4 +1,4 @@
-# Skeleton App V2
+# Skeleton App V3
 
 As a prerequiste Node.js needs to be installed
 
